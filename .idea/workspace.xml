@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa4ba4f9-75f5-4a87-9b4b-2efc8b7f9a8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Sass File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="215bGcRMWkWgpETOgqO7suTzeQy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/libs/fontello" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT\Witcher\src\libs\fontello" />
+      <recent name="D:\IT\Witcher\src\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa4ba4f9-75f5-4a87-9b4b-2efc8b7f9a8f" name="Default Changelist" comment="" />
+      <created>1637233804990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637233804990</updated>
+      <workItem from="1637233818824" duration="367000" />
+      <workItem from="1637234198909" duration="2559000" />
+      <workItem from="1637417080572" duration="3175000" />
+      <workItem from="1637672620107" duration="2116000" />
+      <workItem from="1637678118752" duration="655000" />
+      <workItem from="1637824352140" duration="4798000" />
+      <workItem from="1637820300333" duration="3935000" />
+      <workItem from="1637832890962" duration="1341000" />
+      <workItem from="1637834394705" duration="131000" />
+      <workItem from="1637911556193" duration="1515000" />
+      <workItem from="1637913078499" duration="1079000" />
+      <workItem from="1637914182872" duration="4220000" />
+      <workItem from="1638001687682" duration="1774000" />
+      <workItem from="1638007154107" duration="4779000" />
+      <workItem from="1638199227656" duration="377000" />
+      <workItem from="1638201751222" duration="1581000" />
+      <workItem from="1638280189219" duration="4242000" />
+      <workItem from="1638381946498" duration="476000" />
+      <workItem from="1638382684283" duration="4234000" />
+      <workItem from="1638438913583" duration="283000" />
+      <workItem from="1638446474583" duration="67000" />
+      <workItem from="1638543676825" duration="3660000" />
+      <workItem from="1638955498729" duration="1817000" />
+      <workItem from="1638957325147" duration="580000" />
+      <workItem from="1638959018736" duration="159000" />
+      <workItem from="1638970014091" duration="9000" />
+      <workItem from="1638970032116" duration="3946000" />
+      <workItem from="1638975932904" duration="499000" />
+      <workItem from="1639238279340" duration="53000" />
+      <workItem from="1639569261431" duration="19000" />
+      <workItem from="1639569282834" duration="22000" />
+      <workItem from="1639569320731" duration="207000" />
+      <workItem from="1639570135371" duration="29000" />
+      <workItem from="1639740562834" duration="203000" />
+      <workItem from="1639746666144" duration="17000" />
+      <workItem from="1639835863825" duration="368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="129" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638383737523">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="129" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1638383737523" />
+    <state x="339" y="167" key="run.anything.popup" timestamp="1638203126861">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="167" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1638203126861" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1639740630814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1639740630814" />
+  </component>
+</project>

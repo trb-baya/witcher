@@ -1,0 +1,32 @@
+@import "../libs/fontello/css/fontello.css";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Roboto:ital,wght@1,400;1,500;1,700&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+body{
+  background-color: #141218;
+}
+
+.container{
+  max-width: 1135px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.burger{
+  display: none;
+}
+
+
+
+@import "header";
+@import "first-screen";
+@import "footer";
+@import "media";
+
